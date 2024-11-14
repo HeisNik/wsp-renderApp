@@ -1,0 +1,9 @@
+PUT http://localhost:3001/api/register/671ba1fd3b7e8f1d9f2c8bb8
+content-type: application/json
+
+{
+    "name": "testi",
+    "email": "testi",
+    "password": "kala",
+    "passwordConfirmation": "kala"
+}

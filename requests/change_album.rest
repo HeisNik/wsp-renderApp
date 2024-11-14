@@ -1,0 +1,10 @@
+PUT http://localhost:3001/api/albums/67067ebed7ae729db885da9b
+content-type: application/json
+
+{
+    "artist": "olli halonen",
+    "title": "suomi",
+    "year": 2021,
+    "genre": "Rock",
+    "tracks": 12
+}

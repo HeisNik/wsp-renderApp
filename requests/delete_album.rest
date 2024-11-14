@@ -1,0 +1,1 @@
+Delete http://localhost:3001/api/albums/67333df0586d3be707907a32

@@ -1,0 +1,11 @@
+POST http://localhost:3001/api/albums
+content-type: application/json
+
+
+{
+    "artist": "uusin testi ja user luoma ja admin poistaa",
+    "title": "album",
+    "year": 2018,
+    "genre": "Pop",
+    "tracks": 1
+}

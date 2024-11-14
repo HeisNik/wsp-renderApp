@@ -1,0 +1,1 @@
+Delete http://localhost:3001/api/register/672f74d3303a8e8d094b71fc
